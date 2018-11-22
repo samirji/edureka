@@ -1,2 +1,2 @@
 # edureka
-practice project
+practice project of edureka
